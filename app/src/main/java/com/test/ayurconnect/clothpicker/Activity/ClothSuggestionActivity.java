@@ -1,4 +1,4 @@
-package com.test.ayurconnect.clothpicker;
+package com.test.ayurconnect.clothpicker.Activity;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -12,6 +12,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.test.ayurconnect.clothpicker.R;
 
 public class ClothSuggestionActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
